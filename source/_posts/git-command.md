@@ -5,9 +5,11 @@ categories: Command
 tags: Git
 ---
 
-以下命令中，origin常用作远程版本库名，master则为主要分支名。
+&nbsp;
 
 <!--more-->
+
+以下命令中，origin常用作远程版本库名，master则为主要分支名。
 
 ## 本地创建版本库
 新建一个空文件夹，在该路径下打开bash并输入命令$ git init，将生成一个.git隐藏文件。

@@ -1,11 +1,11 @@
 ---
 title: Hexo+GitHub个人博客部署
 date: 2018-11-07
-categories: _Other
+categories: Uncategorized
 tags: Blog
 ---
 
-Hexo+GitHub个人博客部署
+&nbsp;
 
 <!--more-->
 
