@@ -9,6 +9,10 @@ tags:
 
 <!--more-->
 
+## How-to Guides
+
+### Purge
+
 ## Kusto Query Language (KQL)
 
 ### Aggregation Functions
@@ -24,3 +28,9 @@ The basis of the HyperLogLog algorithm is the observation that the cardinality o
 First, all values should be hashed to uniformly distributed random numbers. To minimise the variance, the numbers can be splitted to numerous subsets. After then, find the maximum number of leading zeros in each subset, use a harmonic mean to combine these estimates, and obtain an estimate of the cardinality of the whole set.
 
 Reference: https://en.wikipedia.org/wiki/HyperLogLog
+
+#### tdigest()
+
+```| summarize tdigest(column1) by column2```
+
+Calculates the intermediate results for percentile across the group, which are represented as a dynamic array. For example, the result ```[[5],[2,3],[1,2]]``` for a specific group means there are 5 groups in total, with one 2 and two 3s in this group.
