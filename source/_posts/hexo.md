@@ -10,8 +10,8 @@ tags: Blog
 <!--more-->
 
 ## 前置环境及条件
-- git
-- github账号
+- Git
+- GitHub账号
 - Node.js
 
 ## GitHub代码库部署
