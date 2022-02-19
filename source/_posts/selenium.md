@@ -1,11 +1,11 @@
 ---
-title: Selenium自动化
+title: Selenium自动化测试
 date: 2020-04-24
 categories: Test
 tags: Automation Test
 ---
 
-&nbsp;
+> Primarily it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should) also be automated as well.
 
 <!--more-->
 

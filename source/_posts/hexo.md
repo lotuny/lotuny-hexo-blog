@@ -5,7 +5,7 @@ categories: Uncategorized
 tags: Blog
 ---
 
-&nbsp;
+Hexo是一个快速、简洁且高效的博客框架，利用了Node.js支持将Markdown文件渲染成网页文件，并一键部署到GitHub上。
 
 <!--more-->
 
