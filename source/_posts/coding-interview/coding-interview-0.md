@@ -1,5 +1,5 @@
 ---
-title: 《剑指Offer》题解前言
+title: 剑指Offer题解前言
 date: 2022-02-19
 categories: Coding Interview Edition 2
 tags:

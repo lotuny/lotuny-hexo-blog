@@ -15,10 +15,10 @@ Hexo是一个快速、简洁且高效的博客框架，利用了Node.js支持将
 - Node.js
 
 ## GitHub代码库部署
-在github创建新仓库，取名为xxx.github.io，其中xxx是自己决定的名字，之后xxx.github.io将成为访问个人博客的域名。
+在GitHub创建新仓库，取名为xxx.github.io，其中xxx是自己决定的名字，之后xxx.github.io将成为访问个人博客的域名。
 
 ## Hexo安装和初始化
-hexo是基于markdown的个人博客框架，使用者编写markdown文章，hexo将自动生成html静态网页文件及相关的css和js等文件。
+Hexo是基于markdown的个人博客框架，使用者编写markdown文章，hexo将自动生成html静态网页文件及相关的css和js等文件。
 
 1. 在命令提示符输入```$ npm install hexo-cli -g```并回车（注意：Node.js配置失败将不能使用```$ npm```命令），接着等待hexo下载完成
 2. 进入想要放置博客项目的位置下，输入```$ hexo init xxx```并回车，其中xxx为博客项目名称,也可以创建好项目空文件夹，进入后直接输入```$ hexo init```。
