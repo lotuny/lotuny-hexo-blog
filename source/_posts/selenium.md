@@ -5,7 +5,7 @@ categories: Test
 tags: Automation Test
 ---
 
-> Primarily it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should) also be automated as well.
+> _Primarily **Selenium** is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should) also be automated as well._
 
 <!--more-->
 

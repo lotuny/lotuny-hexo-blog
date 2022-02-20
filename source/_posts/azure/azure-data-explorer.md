@@ -5,7 +5,7 @@ categories: Azure
 tags:
 ---
 
-> Azure Data Explorer is a fully managed, high-performance, big data analytics platform that makes it easy to analyze high volumes of data in near real time.
+> _**Azure Data Explorer** is a fully managed, high-performance, big data analytics platform that makes it easy to analyze high volumes of data in near real time._
 
 <!--more-->
 

@@ -5,7 +5,7 @@ categories: Computer Network
 tags: Computer Network
 ---
 
-> A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. 
+> _A **computer network** is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other._
 
 <!--more-->
 

@@ -5,7 +5,7 @@ categories: Coding Interview Edition 2
 tags: Array
 ---
 
-在C#语言里面，有两种表达二维数组的方式，一种称为交错数组（Jagged Array），另一种称为多维数组（Multi-Dimensional Array）。其中，交错数组可以理解为一维数组，其元素也为数组，各元素之间大小可能不同；多维数组具有多个维度，每一维度的各元素都具有相同大小。
+在C#语言里面，有两种表达**二维数组**的方式，一种称为交错数组（Jagged Array），另一种称为多维数组（Multi-Dimensional Array）。其中，交错数组可以理解为一维数组，其元素也为数组，各元素之间大小可能不同；多维数组具有多个维度，每一维度的各元素都具有相同大小。
 
 <!--more-->
 
