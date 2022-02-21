@@ -1,8 +1,9 @@
 ---
 title: Azure Data Explorer (Kusto)
-date: 2022-02-19 16:35:58
+date: 2022-02-21 21:19:00
 categories: Azure
 tags:
+toc: true
 ---
 
 > _**Azure Data Explorer** is a fully managed, high-performance, big data analytics platform that makes it easy to analyze high volumes of data in near real time._
@@ -13,7 +14,39 @@ tags:
 
 ### Purge
 
+Purge is designed to be used to protect personal data for obligations under the GDPR. It is not designed to support frequent delete requests or deletion of massive quantities of data, and may have a siginificant performance impact on the service. For other scenarios, retention policy is more suitable.
+
+**Prerequisite**: Enable data purge on your cluster through Azure Portal (Settings/Configurations -> Enable purge) and save.
+
+**Purge syntax**:
+```
+// Connect to the Data Management service
+#connect "https://ingest-[YourClusterName].[region].kusto.windows.net" 
+
+// To purge table records
+.purge table [TableName] records in database [DatabaseName] with (noregrets='true') <| [Predicate]
+
+// To purge materialized view records
+.purge materialized-view [MaterializedViewName] records in database [DatabaseName] with (noregrets='true') <| [Predicate]
+```
+
+**Track status**:
+```
+.show purges <OperationId>
+.show purges [in database <DatabaseName>]
+.show purges from '<StartDate>' [in database <DatabaseName>]
+.show purges from '<StartDate>' to '<EndDate>' [in database <DatabaseName>]
+```
+
 ## Kusto Query Language (KQL)
+
+### Tabular operations
+
+#### join operator
+
+```Table1 | join kind=JoinFlavor (Table 2) on CommonColumn, $left.Col1 == $right.Col2```
+
+Join flavors: innerunique (default), inner, leftouter, rightouter, fullouter, leftanti, rightanti, leftsemi, rightsemi
 
 ### Aggregation Functions
 
