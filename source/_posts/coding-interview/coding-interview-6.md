@@ -28,7 +28,7 @@ struct ListNode
 {
     int m_nValue;
     ListNode* m_pNext;
-}
+};
 ```
 https://github.com/zhedahht/CodingInterviewChinese2/blob/master/06_PrintListInReversedOrder/PrintListInReversedOrder.cpp
 
