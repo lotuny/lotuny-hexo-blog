@@ -1,5 +1,5 @@
 ---
-title: Animal Farm (2022-03-03)
+title: Animal Farm (2022-03-09)
 date: 2022-02-21 21:21:08
 categories: Reading
 tags: Novella
@@ -8,6 +8,19 @@ tags: Novella
 > _Animal Farm_ is a satirical allegorical novella by **George Orwell**, first published in England on 17 August 1945. The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy.
 
 <!--more-->
+
+| Name | Breed | Introduction | Character |
+|---|---|---|---|
+| Old Major | Pig | Twelve years old and had lately grown rather stout, but still majestic-looking. | Wise and benevolent. | 
+| Clover | Horse | A stout motherly mare approaching middle life, who had never quite got her figure back after her fourth **foal**. | N/A | Motherly. |
+| Boxer | Horse | An enormous beast with a white stripe down his nose, nearly eighteen hands high, and as strong as any two ordinary horses put together. | Not of first-rate intelligence, but universally respected for his steadiness of charactore and tremendous powers of work. |
+| Muriel | Goat | White | N/A |
+| Bejamin | Donkey | Oldest. Devoted to Boxer. | Worst tempered. Never laughed and seldom talked and when he did it was usually to make some cynical remark. | 
+| Mollie | Mare | White and pretty. Love sugar. | Foolish. |
+| Moses | Raven | N/A | Tame. |
+| Napoleon | Berkshire boar | N/A | Not much of a talker but with a reputation for getting his own way. |
+| Snowball | Boar | Vivacious than Napoleon, quicker in speech and more inventive, but was not considered to have the same depth of character. | N/A |
+| Squealer | Porker | With very round cheeks, twinkling eyes, **nimble** movements and a shrill voice. | He was a brilliant talker, and when he was arguing some difficult point he had a way of skipping from side to side and **whisking** his tail which was somehow very persuasive. |
 
 ## Chapter I
 
@@ -35,15 +48,7 @@ tags: Novella
 6. The two cart-horses, Boxer and Clover, came in together, walking very slowly and setting down their vast hairy hoofs with great care **lest** there should be some small animal **concealed in the straw**.
 
 7. Animals
-    | Name | Breed | Introduction | Character |
-    |---|---|---|---|
-    | Old Major | Pig | Twelve years old and had lately grown rather stout, but still majestic-looking. | Wise and benevolent. | 
-    | Clover | Horse | A stout motherly mare approaching middle life, who had never quite got her figure back after her fourth **foal**. | N/A | Motherly. |
-    | Boxer | Horse | An enormous beast with a white stripe down his nose, nearly eighteen hands high, and as strong as any two ordinary horses put together. | Not of first-rate intelligence, but universally respected for his steadiness of charactore and tremendous powers of work. |
-    | Muriel | Goat | White | N/A |
-    | Bejamin | Donkey | Oldest. Devoted to Boxer. | Worst tempered. Never laughed and seldom talked and when he did it was usually to make some cynical remark. | 
-    | Mollie | Mare | White and pretty. Love sugar. | Foolish. |
-    | Moses | Raven | N/A | Tame. |
+    ...
 
 8. For instance he would say that God had given him a tail to keep the flies off, but that he **would sooner** have had no tail and no flies.
     - would sooner = would rather
@@ -116,3 +121,96 @@ tags: Novella
 40. The cows **lowed** it, the dogs **whined** it, the sheep **bleated** it, the horses **whinnied** it, the ducks **quacked** it.
 
 41. They were so delighted with the song that they sang it right **through five times** **in succession**, and might have continued singing it all night if they had not been interrupted.
+
+42. He seized the gun which always stood in a corner of his bedroom, and let fly **a charge of（一弹匣）** Number 6 shot into the darkness.
+
+43. The **pellets** buried themselves in the wall of the barn and the meeting broke up hurriedly.
+
+## Chapter II
+
+1. The work of teaching and organizing the others fell naturally upon the pigs, who were generally recognized as being the cleverest of the animals.
+
+2. **Preeminent** among the pigs were two young boars named Snowball and Napoleon, whom Mr Jones was breeding for sale.
+
+3. The others **said of** Squealer that he could **turn black into white**.
+
+4. These three had elaborated old Major's **teachings** into a complete system of thought, to which they gave the name of **Animalism**.
+
+5. Several nights a week, after Mr Jones was asleep, they held secret meetings in the barn and **expounded（论述）** the principles of Animalism to the others.
+
+6. Others asked such questions as 'Why should we care what happens after we are dead?' or 'If this Rebellion is to happen anyway, **what difference does it make** whether we work for it or not?'.
+
+7. The pigs had an even harder struggle to **counteract（抵制）** the lies **put about** by Moses, the tame raven.
+
+8. He claimed to **know of** the existence of a mysterious country called Sugercandy Mountain, to which all animals went when they died.
+
+9. In Sugarcandy Mountain it was Sunday seven days a week, clover was **in season** all the year round, and **lump sugar（方糖）** and **linseed（亚麻籽）** cake grew on the hedges.
+
+10. Their most faithful **disciples（信徒）** were the two cart-horses, Boxer and Clover.
+
+11. They were **unfailing** in their attendance at the secret meetings in the barn, and led the singing of 'Beasts of England' with which the meetings always ended.
+
+12. In past years Mr Jones, although a hard master, had been a capable farmer, but **of late** he had fallen on a evil days. He had become much **disheartened（沮丧的）** after losing money in a lawsuit, and had **taken to drinking** more than was good for him.
+
+13. For whole days at a time he would **lounge** in his windsor chair in the kitchen, reading the newspapers, drinking, and occasionally feeding Moses on **crusts of** bread soaked in beer.
+
+14. His men were idle and dishonest, the fields were full of **weeds**, the buildings **wanted roofing**, the hedges were neglected and the animals were **underfed**.
+
+15. The men had **milked the cows** in the early morning and then had gone out **rabbiting**, without **bothering to** feed the animals.
+    - bother: to make the effort to do something.
+
+16. ... with whips **lashing out** in all directions.
+
+17. **With one accord**, though **nothing of the kind** had been planned beforehand, they **flung** themselves upon their tormentors.
+    - with one accord: people do something together and in complete agreement.
+    - nothing of the kind: used to emphasize a negative statement.
+    - flung (fling-flung-flung): to throw something or someone suddenly and with a lot of force.
+
+18. This sudden **uprising** of creatures whom they were used to **thrashing** and maltreating just as they chose, frightened them almost **out of their wits**.
+    - uprising: an act of opposition by many people in one area against those who are in power.
+    - thrash: to hit person or animal hard many times as a punishment.
+    - wits: practical intelligence or understanding.
+
+19. After only a moment or two they gave up trying to defend themselves and **took to their heels**.
+    - take to one's heels: to quickly run away.
+
+20. A minute later all five of them were **in full flight** down the cart-track.
+
+21. Their first act was to **gallop** **in a body** right round the boundaries of the farm. 
+    - gallop: to run fast
+    - in a body: do something together as a group.
+
+22. Then they raced back to the farm buildings to **wipe out the last traces** of Jones's hated **reign**.
+
+23. The bits, the nose-rings, the dog-chains, the cruel knives used to **castrate** the pigs and lambs, were all flung down the well. The reins, the halters, the blinkers, the degrading nosebags, were thrown onto the rubbish fire which was burning in the yard. So were the whips.
+    - castrate: to remove the **testicles** of a male animal or human
+    - testicle: male sex organ that produces sperm
+
+24. All the animals **capered** with joy when they saw the whips **going up** in flames.
+    - caper: to run and jump about in an enegetic, happy way
+    - go up: to be destroyed in a fire or explosion
+
+25. Then they sang 'Beasts of England' **from end to end** seven times running.
+    - from end to end: from start to end
+
+26. A little way down the **pasture** there was a **knoll** that **commanded a view** of most of the farm.
+     - pasture: an area of land covered in grass or similar plants.
+     - knoll: a small low hill with a rounded rop.
+     - command a view: give a view.
+
+27. In the **ecstasy** of that thought they **gambolled** round and round, they **hurled** themselves into the air in great leaps of excitement.
+    - ecstasy: a state of extreme happiness.
+    - gambol: to run and jump in a happy way.
+    - hurl: to throw something with a lot of force
+
+28. They rolled in the dew, they cropped mouthfuls of the sweet summer grass, they kicked up clods of the black earth and snuffed its rich scent.
+
+29. Then they made a tour of inspection of the whole farm and surveyed with speechless admiration the ploughland, the hayfield, the orchard, the pool, the **spinney （灌木丛, 矮林）**.
+
+30. Then they **filed** back to the farm buildings and halted in silence outside the door of the farmhouse.
+    - file: to walk in a line
+
+31. They tiptoed from room to room, afraid to speak **above a whisper** and gazing with a kind of **awe** at the unbelievable luxury, ..., the **lithograph** of Queen Victoria over the drawing-room **mantelpiece**.
+    - awe: a feeling of great respect mixed with fear or surprise.
+    - lithograph: a printed picture.
+    - mantelpiece: a shelf above a fireplace.
